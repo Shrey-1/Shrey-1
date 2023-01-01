@@ -3,14 +3,14 @@
 - 💞️ I’m looking to collaborate on project that would help me learn more 
 - 📫 How to reach me shrey8979@gmail.com
 
-
+ <br /> <br /> <br /> <br /> <br />
 
 
 
 
 [![Shrey's github stats](https://github-readme-stats.vercel.app/api?username=Shrey-1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-
+ <br /> <br /> <br /> <br /> <br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-1)](https://github.com/anuraghazra/github-readme-stats)
